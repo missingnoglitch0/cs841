@@ -1,0 +1,147 @@
+Trial Index,Time Beg,Time Behavior,Time Reward,Time End,Choice by User,Choice by Program,Setup Correct Choice,Correct,Experimental Event
+0,,,18.48143434524536,,square,square,square,True,None
+1,,,19.87337327003479,,square,square,square,True,None
+2,,,27.03622078895569,,square,square,square,True,None
+3,,,28.551228284835815,,square,square,square,True,Random Task SWitch
+4,,,29.964823961257935,,square,square,circle,False,None
+5,,,33.434816122055054,,circle,circle,circle,True,None
+6,,,34.81368088722229,,circle,circle,circle,True,None
+7,,,36.20727348327637,,circle,circle,circle,True,Random Task SWitch
+8,,,46.476369857788086,,circle,circle,square,False,None
+9,,,48.59296488761902,,square,square,square,True,None
+10,,,52.72254776954651,,square,square,square,True,None
+11,,,54.21175742149353,,square,square,square,True,None
+12,,,55.91758608818054,,square,square,square,True,None
+13,,,57.33104419708252,,square,square,square,True,Random Task SWitch
+14,,,58.71619701385498,,square,square,circle,False,None
+15,,,60.77357816696167,,circle,circle,circle,True,None
+16,,,62.2904372215271,,circle,circle,circle,True,None
+17,,,64.00689053535461,,circle,circle,circle,True,None
+18,,,65.52032208442688,,circle,circle,circle,True,Random Task SWitch
+19,,,67.21877765655518,,circle,circle,square,False,None
+20,,,68.66198945045471,,square,square,square,True,None
+21,,,70.02616453170776,,square,square,square,True,None
+22,,,71.39530324935913,,square,square,square,True,Random Task SWitch
+23,,,73.26049137115479,,square,square,circle,False,None
+24,,,74.70782232284546,,circle,circle,circle,True,None
+25,,,76.05915093421936,,circle,circle,circle,True,None
+26,,,77.76082229614258,,circle,circle,circle,True,Random Task SWitch
+27,,,79.56005072593689,,circle,circle,square,False,None
+28,,,82.10230660438538,,square,square,square,True,None
+29,,,83.90088891983032,,square,square,square,True,None
+30,,,85.27703285217285,,square,square,square,True,None
+31,,,86.67582702636719,,square,square,square,True,Random Task SWitch
+32,,,88.03173661231995,,square,square,circle,False,None
+33,,,89.47253727912903,,circle,circle,circle,True,Random Task SWitch
+34,,,90.82725763320923,,circle,circle,square,False,None
+35,,,92.29852151870728,,circle,circle,square,False,None
+36,,,94.24234318733215,,square,square,square,True,None
+37,,,96.01993536949158,,square,square,square,True,None
+38,,,97.38431143760681,,square,square,square,True,Random Task SWitch
+39,,,99.07158541679382,,square,square,circle,False,None
+40,,,101.31942081451416,,circle,circle,circle,True,None
+41,,,102.72389340400696,,circle,circle,circle,True,None
+42,,,104.24941349029541,,circle,circle,circle,True,None
+43,,,105.85672974586487,,circle,circle,circle,True,None
+44,,,107.38750290870667,,circle,circle,circle,True,None
+45,,,108.92596888542175,,circle,circle,circle,True,Random Task SWitch
+46,,,110.49708938598633,,circle,circle,square,False,None
+47,,,112.0840106010437,,square,square,square,True,Random Task SWitch
+48,,,113.67304706573486,,square,square,circle,False,None
+49,,,115.29422640800476,,circle,circle,circle,True,None
+50,,,116.74472713470459,,circle,circle,circle,True,None
+51,,,118.64588594436646,,circle,circle,circle,True,Random Task SWitch
+52,,,120.45689272880554,,circle,circle,square,False,None
+53,,,122.12246465682983,,square,square,square,True,None
+54,,,123.79281306266785,,square,square,square,True,None
+55,,,125.64628410339355,,square,square,square,True,Random Task SWitch
+56,,,127.0853476524353,,square,square,circle,False,None
+57,,,128.57523488998413,,circle,circle,circle,True,None
+58,,,130.30174708366394,,circle,circle,circle,True,None
+59,,,131.78376078605652,,circle,circle,circle,True,None
+60,,,133.19789695739746,,circle,circle,circle,True,None
+61,,,134.82377004623413,,circle,circle,circle,True,None
+62,,,136.43895983695984,,circle,circle,circle,True,None
+63,,,137.86812090873718,,circle,circle,circle,True,Random Task SWitch
+64,,,139.39245414733887,,circle,circle,square,False,None
+65,,,141.30961728096008,,square,square,square,True,None
+66,,,142.68360233306885,,square,square,square,True,Random Task SWitch
+67,,,144.35557413101196,,square,square,circle,False,None
+68,,,146.01805901527405,,circle,circle,circle,True,None
+69,,,147.68600606918335,,circle,circle,circle,True,None
+70,,,149.0984513759613,,circle,circle,circle,True,None
+71,,,150.6925175189972,,circle,circle,circle,True,Random Task SWitch
+72,,,152.10162663459778,,circle,circle,square,False,None
+73,,,153.51097178459167,,square,square,square,True,None
+74,,,155.59316229820251,,square,square,square,True,None
+75,,,157.08639574050903,,square,square,square,True,None
+76,,,159.0283646583557,,square,square,square,True,None
+77,,,160.70576667785645,,square,square,square,True,Random Task SWitch
+78,,,162.50584816932678,,square,square,circle,False,None
+79,,,164.31918478012085,,square,square,circle,False,None
+80,,,166.8502209186554,,square,square,circle,False,None
+81,,,168.6726861000061,,circle,circle,circle,True,None
+82,,,170.20276284217834,,circle,circle,circle,True,None
+83,,,171.8759491443634,,circle,circle,circle,True,None
+84,,,173.475191116333,,circle,circle,circle,True,Random Task SWitch
+85,,,175.10649585723877,,circle,circle,square,False,None
+86,,,176.60883951187134,,circle,circle,square,False,None
+87,,,178.2087950706482,,square,square,square,True,None
+88,,,179.8515899181366,,square,square,square,True,None
+89,,,181.39565324783325,,square,square,square,True,None
+90,,,183.03234601020813,,square,square,square,True,None
+91,,,184.5953586101532,,square,square,square,True,None
+92,,,186.05892825126648,,square,square,square,True,None
+93,,,187.52797746658325,,square,square,square,True,Random Task SWitch
+94,,,188.9929540157318,,square,square,circle,False,None
+95,,,191.04459881782532,,circle,circle,circle,True,None
+96,,,192.5083408355713,,circle,circle,circle,True,None
+97,,,194.30219864845276,,circle,circle,circle,True,Random Task SWitch
+98,,,198.308043718338,,circle,circle,square,False,None
+99,,,199.7724573612213,,square,square,square,True,None
+100,,,201.35948777198792,,square,square,square,True,None
+101,,,202.9588279724121,,square,square,square,True,None
+102,,,207.83435940742493,,circle,circle,square,False,None
+103,,,209.80230021476746,,square,square,square,True,None
+104,,,211.29594016075134,,square,square,square,True,None
+105,,,212.71355295181274,,square,square,square,True,Random Task SWitch
+106,,,214.3956744670868,,square,square,circle,False,None
+107,,,216.03903102874756,,square,square,circle,False,None
+108,,,220.64701199531555,,circle,circle,circle,True,None
+109,,,222.45043873786926,,circle,circle,circle,True,None
+110,,,224.02517080307007,,circle,circle,circle,True,None
+111,,,225.66683769226074,,circle,circle,circle,True,None
+112,,,227.0247781276703,,circle,circle,circle,True,Random Task SWitch
+113,,,228.56685590744019,,circle,circle,square,False,None
+114,,,230.08063197135925,,square,square,square,True,Random Task SWitch
+115,,,231.65268182754517,,square,square,circle,False,None
+116,,,236.99149560928345,,square,square,circle,False,None
+117,,,238.49761033058167,,circle,circle,circle,True,None
+118,,,239.91397523880005,,circle,circle,circle,True,None
+119,,,242.80652475357056,,circle,circle,circle,True,Random Task SWitch
+120,,,244.4559624195099,,circle,circle,square,False,None
+121,,,245.88922691345215,,square,square,square,True,None
+122,,,247.32181024551392,,square,square,square,True,Random Task SWitch
+123,,,248.76982617378235,,square,square,circle,False,None
+124,,,250.37462735176086,,circle,circle,circle,True,None
+125,,,252.5007245540619,,circle,circle,circle,True,None
+126,,,254.06027626991272,,circle,circle,circle,True,None
+127,,,255.62938833236694,,circle,circle,circle,True,Random Task SWitch
+128,,,257.24206137657166,,circle,circle,square,False,None
+129,,,265.8582708835602,,square,square,square,True,None
+130,,,267.29307675361633,,square,square,square,True,None
+131,,,268.7156548500061,,square,square,square,True,None
+132,,,270.3258330821991,,square,square,square,True,None
+133,,,271.89671778678894,,square,square,square,True,None
+134,,,273.5979833602905,,square,square,square,True,None
+135,,,275.4790618419647,,square,square,square,True,None
+136,,,276.94582867622375,,square,square,square,True,Random Task SWitch
+137,,,278.37818813323975,,square,square,circle,False,None
+138,,,279.7843143939972,,circle,circle,circle,True,None
+139,,,283.8017828464508,,circle,circle,circle,True,None
+140,,,285.9080500602722,,circle,circle,circle,True,None
+141,,,287.46262860298157,,circle,circle,circle,True,None
+142,,,288.9196734428406,,circle,circle,circle,True,None
+143,,,290.3399622440338,,circle,circle,circle,True,None
+144,,,291.83868432044983,,circle,circle,circle,True,Random Task SWitch
+145,,,293.36215329170227,,circle,circle,square,False,None
